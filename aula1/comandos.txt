@@ -20,3 +20,4 @@ docker container run -it ubuntu /bin/bash
 EXECUTANDO CONTINUAMENTE: 
 
 48 MINUTOS
+https://www.youtube.com/watch?v=Zz1q0TyJLGE&t=2554s
