@@ -1,0 +1,22 @@
+docker container run hello-world
+
+docker container run --name meucontainer hello-world
+
+docker container ls -a
+
+docker container rm <nome_container ou id>
+
+docker container run --name meucontainer --rm hello-world
+
+MODO INTERATIVO:
+
+docker container run -it ubuntu /bin/bash
+[
+    apt-get update
+    apt-get install curl
+    curl https://www.google.com
+]
+
+EXECUTANDO CONTINUAMENTE: 
+
+48 MINUTOS
